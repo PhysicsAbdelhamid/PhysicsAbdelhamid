@@ -2,6 +2,7 @@
     
     You may know more about me by consulting my personal webpage in the link available in the below contact section. 
 
+
   🌱 I’m currently :
 -  A Master 2 (bac+5) student at Aix-Marseille university (AMU) in FunPhys -Fundamental Physics- (2022-2023)
   
