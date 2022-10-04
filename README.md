@@ -1,31 +1,29 @@
-- 👋 Hi, I’m Haddad Abdelhamid
+- 👋 Hi, I’m Abdelhamid Haddad
 ### Hi there 👋
 
 
 
-  🌱 I’m currently  :
--  learning Master 2 (2021-2022)
+  🌱 I’m currently :
+-  A Master 2 (bac+5) student at Aix-Marseille university (AMU) in FunPhys -Fundamental Physics- (2022-2023)
   
-  🌱 I was a student :
--  Master 1 High Performance Computing, Simulation (HPCS) at the University of Versailles-France (2020-2021)
--  3rd degree in computer science at the University of Perpignan-France (2018-2020)
--  3rd degree in information systems and software engineering at the University Bouira -Algeria (2015-2018)
+  🌱 I have completed :
+-  A Master 1 at AMU (2020-2022) : because of administrative issue, I have done it in two years.
+-  A (completed) Master degree at Annaba university in theoretical physics : particles and cosmology (2018-2020)
+-  A bachelor degree in fundamental physics at Bouira university (2015-2018)
 
  ⚡ languages ,frameworks 
-- C,C++,fortran,Python,JAVA,PHP,HTML5,CSS,XML,MPI,OpenMp,Pthread,CUDA,LLVM,Tiger,OpenAcc
-  JavaScript(Jquery),Bootstrap,Nodejs,OrgMode, Markdown,LaTeX
-  ReactJs,.Net,VHDL,Aseba(Robotique).
+- Actually I'am looking for 
 
- 🔭 working on:
-- STEP visualisation,ISO standard formats and MultiCAD formats.
-- Profiling,optimisation
-- Benchmarking
-- Parallel programming
-- Vectorisation, scalability, cache blocking
+ 🔭 Aiming to work on :
+- .
+- .
+- .
+- .
+- .
 
  ## Contact
-  - email: 
-  - website:
+  - emails: abdelhaddad.phy@gmail.com / abdelhamid.haddad@etu.univ-amu.fr
+  - website:https://abdelhamidhaddad.wordpress.com/ (still under construction)
 
 
 
