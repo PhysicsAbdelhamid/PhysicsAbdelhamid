@@ -15,8 +15,8 @@
 - Actually I'am looking for 
 
  🔭 Aiming to work on :
-- .
-- .
+- General relativity and quantum gravity: Gravitational waves, .
+- Particle Physics Theory : Physics beyond the SM, QCD and Effective field theories.
 - .
 - .
 - .
