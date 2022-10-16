@@ -20,12 +20,12 @@
 - More generally: Testing and understanding Fundamental Physics.
 
  🔭 Associated to the field of : which doesn't mean I'am specialist of them, but would like to,
-- General relativity and quantum gravity: from a conceptual understanding to numerical simulation.
+- General relativity and quantum gravity: from a conceptual understanding to numerical simulations.
 - Gauge/Gravity dualities : it's application to strongly coupled systems and superconductors.
 - Particle Physics Theory : Physics beyond the SM, QCD and Effective field theories.
 - Yang–Mills theory : it's mathematical structure and open problems.
 - QFT, matrix models and Lattice (gauge) field theories.
-- Physical Cosmology : whether from a numerical point of view and/or data analysis.
+- Theoretical Cosmology : whether from a theoretical point of view and/or numerical.
 
  ## Contact : Feel free to contact me for any question and suggestion please ! 
   - emails: abdelhaddad.phy@gmail.com / abdelhamid.haddad@etu.univ-amu.fr
